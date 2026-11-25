@@ -331,7 +331,7 @@ function testSort() {
         name: 'Activity One',
         id: 'TEST-01',
         grades: [5, 6, 7, 8],
-        students: ['John Doe', 'Janes Doe', 'Brendan Ee', 'Silly Kid'],
+        students: ['John Doe', 'Janes Doe', 'Bea Ee', 'Silly Kid'],
         limit: 4,
       },
       {
